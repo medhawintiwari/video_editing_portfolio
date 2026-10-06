@@ -3,11 +3,11 @@ import { VideoProject } from "@/types";
 export const projects: VideoProject[] = [
   {
     slug: "sample-edit-new",
-    title: "Losers To Winners",
+    title: "Losers To Winners [ Advertisement for ABES Autonomy ]",
     client: "@theskyfallfx",
-    category: "Motivational",
+    category: "Advertisement",
     year: 2025,
-    duration: "1:04",
+    duration: "1:05",
     description: "losers to winners",
     thumbnail: "/images/projects/reel_latest.jpg",
     videoUrl: "https://www.instagram.com/reel/Ddy24dTzExx/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==",
