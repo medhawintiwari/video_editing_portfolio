@@ -3,12 +3,12 @@ import { VideoProject } from "@/types";
 export const projects: VideoProject[] = [
   {
     slug: "sample-edit-new",
-    title: "Latest Reel",
+    title: "Losers To Winners",
     client: "@theskyfallfx",
-    category: "Social Reels",
+    category: "Motivational",
     year: 2025,
-    duration: "0:15",
-    description: "My latest social reel edit.",
+    duration: "1:04",
+    description: "losers to winners",
     thumbnail: "/images/projects/reel_latest.jpg",
     videoUrl: "https://www.instagram.com/reel/Ddy24dTzExx/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==",
     role: "Editor & Motion Designer",
